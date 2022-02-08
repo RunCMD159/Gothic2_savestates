@@ -1,0 +1,25 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 0
+date 6.2.2022 19:4:32
+user FSchmuck
+END
+objects 1        
+END
+
+[% oCSavegameInfo 0 0]
+	Title=string:Soeldner_start
+	WorldName=string:NEWWORLD
+	TimeDay=int:9
+	TimeHour=int:16
+	TimeMin=int:9
+	SaveDate=string:6.2.2022 - 19:04
+	VersionMajor=int:2
+	VersionMinor=int:6
+	PlayTimeSeconds=int:31034
+	VersionPoint=int:0
+	VersionInt=int:0
+	VersionAppName=string:Gothic II - 2.6 (fix)
+[]
